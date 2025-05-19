@@ -33,7 +33,7 @@ while  true; do
 		read -p "Enter the URL: " url
 			# Change path to the music folder		
     		cd /path/to/your/MusicFolder
-    		yt-dl --progress -v -x --audio-format mp3 "$url"
+    		yt-dlp --progress -v -x --audio-format mp3 "$url"
     		echo ""
     		echo "Download completed successfully!"
 			# Open file manager 
