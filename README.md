@@ -28,6 +28,16 @@ source venv/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 ```
+---
+
+## System Requirements
+
+This script uses the `figlet` command-line tool to display ASCII banners.
+
+Make sure it's installed:
+
+```bash
+sudo apt install figlet
 
 ---
 
