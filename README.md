@@ -38,7 +38,7 @@ Make sure it's installed:
 
 ```bash
 sudo apt install figlet
-
+```
 ---
 
 ## Usage
