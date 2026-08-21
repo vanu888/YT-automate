@@ -16,7 +16,7 @@ A simple script to use and automate the **yt-dlp** library.
 
 ```bash
 # Clone the repository
-git clone https://github.com/vanu888/YT-automate.git
+git clone https://github.com/vihanga-anuththara/YT-automate.git
 
 # Navigate to the project directory
 cd YT-automate
@@ -93,5 +93,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-- GitHub: [@vanu888](https://github.com/vanu888)
+- GitHub: [@vihanga-anuththara](https://github.com/vihanga-anuththara)
 
